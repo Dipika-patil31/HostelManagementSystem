@@ -1,7 +1,7 @@
 # HostelManagementSystem
 # Hostel Management System
 
-A mobile-based application to streamline hostel-related tasks such as **student outpass management** using **Firebase Realtime Database**.
+A mobile-based application to streamline hostel-related tasks such as **student outpass management** using **Frebase Realtime Database**.
 
 ---
 
